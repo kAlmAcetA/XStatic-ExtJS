@@ -11,3 +11,13 @@ the XStatic base package, if you like.
 
 You can find more info about the xstatic packaging way in the package `XStatic`.
 
+License
+-------
+Same as ExtJS - GPLv3 http://www.gnu.org/copyleft/gpl.html
+
+Credits
+-------
+
+More about ExtJS: http://www.sencha.com/products/extjs/
+
+More about XStatic: http://xstatic.readthedocs.org/en/latest/
