@@ -1,4 +1,4 @@
-from xstatic.pkg import jquery as xs
+from xstatic.pkg import extjs as xs
 
 # The README.txt file should be written in reST so that PyPI can use
 # it to generate your project's PyPI page. 
