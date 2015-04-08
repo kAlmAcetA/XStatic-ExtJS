@@ -1,4 +1,4 @@
-Ext JS 3.4 - JavaScript Library
+Ext JS 4.2 - JavaScript Library
 Copyright (c) 2006-2013, Sencha Inc.
 All rights reserved.
 licensing@sencha.com

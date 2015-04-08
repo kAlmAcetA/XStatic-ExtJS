@@ -11,7 +11,7 @@ NAME = __name__.split('.')[-1] # package name (e.g. 'foo' or 'foo_bar')
                                # please use a all-lowercase valid python
                                # package name
 
-VERSION = '3.4.1.1' # version of the packaged files, please use the upstream
+VERSION = '4.2.1.883' # version of the packaged files, please use the upstream
                   # version number
 BUILD = '1' # our package build number, so we can release new builds
              # with fixes for xstatic stuff.
@@ -36,7 +36,7 @@ LICENSE = '(same as %s)' % DISPLAY_NAME
 from os.path import join, dirname
 BASE_DIR = join(dirname(__file__), 'data')
 # linux package maintainers just can point to their file locations like this:
-#BASE_DIR = '/usr/share/javascript/extjs'
+#BASE_DIR = '/usr/share/javascript/jquery'
 
 LOCATIONS = {
 }
