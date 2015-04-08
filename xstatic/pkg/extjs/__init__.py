@@ -31,7 +31,7 @@ MAINTAINER_EMAIL = 'krzysztof@warunek.net'
 HOMEPAGE = 'http://www.sencha.com/products/extjs/'
 
 # this refers to all files:
-LICENSE = '(same as %s)' % DISPLAY_NAME
+LICENSE = 'GPLv3 (same as %s)' % DISPLAY_NAME
 
 from os.path import join, dirname
 BASE_DIR = join(dirname(__file__), 'data')
